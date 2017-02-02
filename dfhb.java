@@ -8,7 +8,10 @@ import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.IOException;
-
+/**
+*文本输入输出流的基本操作
+*
+**/
 public class dfhb {
 	
 	public static void CopyFile(String fromfile,String tofile){
